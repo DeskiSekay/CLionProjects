@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sekay/CLionProjects/sb素数/main.c
+stdio.h
+-
+math.h
+-
+stdio.h
+-
+stdio.h
+-
+stdio.h
+-
+stdio.h
+-
+

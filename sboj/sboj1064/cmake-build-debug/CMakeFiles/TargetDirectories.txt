@@ -1,0 +1,3 @@
+/Users/sekay/CLionProjects/1064/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sekay/CLionProjects/1064/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sekay/CLionProjects/1064/cmake-build-debug/CMakeFiles/1064.dir
