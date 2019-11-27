@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sekay/CLionProjects/Lib/AOJ_test_week47/main.cpp
+iostream
+-
+iostream
+-
+stdio.h
+-
+stdio.h
+-
+stdio.h
+-
+math.h
+-
+

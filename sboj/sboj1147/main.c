@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 
 int a[25], b[25], c[50], d[50], n1, n2, flag, h = 0;
@@ -35,40 +34,29 @@ int main() {
             c[h] = b[k];
             h++;
         }
+
     }
-    int p = 0;
+
+    int p, x = 0;
+    //m->c
     for (int m = 0; m < h; ++m) {
         flag = 0;
-        for (int i = 0; i < h; ++i) {
-            if (c[i] == c[m]) {
-                d[m] = c[m];
+        //c[m] 0 0 0 0 0 0 0
+        //与数组d中现有的元素比较，不重复存入数组d
+        //i->d
+        for (p = 0; p <= m; ++p) {
+            //if (d[p] == c[m]) break;
+            if (c[m] == d[p]) {
+                flag = 1;
             }
         }
-        for (int l = 0; l < p; ++l) {
-            printf("%d ", d[l]);
+        if (flag == 0) {
+            d[x] = c[m];
+            x++;
         }
+    }
+    for (int l = 0; l < x; ++l) {
+        printf("%d ", d[l]);
     }
     return 0;
 }
-*//*
-
-
-#include <stdio.h>
-
-int main() {
-    int n, num, fee[3], package = 0, price = 0;
-    scanf("%d", &n);
-    for (int i = 0; i < 3; i++) {
-        num = 1;
-        scanf("%d%d", &package, &price);
-        while (num * package <= n) num++;
-        fee[i] = price * num;
-        printf("fee=%d,i=%d\n", fee[i], i);
-    }
-    int choice = 0;
-    for (int i = 0; i < 2; i++) {
-        if (fee[i] < fee[i + 1]) choice = i;
-    }
-    //printf("%d",fee[choice]);
-    return 0;
-}*/
