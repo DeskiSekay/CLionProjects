@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/sekay/CLionProjects/sboj1174/main.c
+/Users/sekay/CLionProjects/sboj/sboj1174/main.c
 stdio.h
 -
 string.h
--
-stdio.h
 -
 

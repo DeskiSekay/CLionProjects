@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/sekay/CLionProjects/sboj1174
+CMAKE_SOURCE_DIR = /Users/sekay/CLionProjects/sboj/sboj1174
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/sekay/CLionProjects/sboj1174/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/sekay/CLionProjects/sboj/sboj1174/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sekay/CLionProjects/sboj1174/cmake-build-debug/CMakeFiles /Users/sekay/CLionProjects/sboj1174/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sekay/CLionProjects/sboj/sboj1174/cmake-build-debug/CMakeFiles /Users/sekay/CLionProjects/sboj/sboj1174/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sekay/CLionProjects/sboj1174/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sekay/CLionProjects/sboj/sboj1174/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ sboj1174/fast:
 	$(MAKE) -f CMakeFiles/sboj1174.dir/build.make CMakeFiles/sboj1174.dir/build
 .PHONY : sboj1174/fast
 
-main.o: main.c.o
+main.o: main.cpp.o
 
 .PHONY : main.o
 
 # target to build an object file
-main.c.o:
-	$(MAKE) -f CMakeFiles/sboj1174.dir/build.make CMakeFiles/sboj1174.dir/main.c.o
-.PHONY : main.c.o
+main.cpp.o:
+	$(MAKE) -f CMakeFiles/sboj1174.dir/build.make CMakeFiles/sboj1174.dir/main.cpp.o
+.PHONY : main.cpp.o
 
-main.i: main.c.i
+main.i: main.cpp.i
 
 .PHONY : main.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles/sboj1174.dir/build.make CMakeFiles/sboj1174.dir/main.c.i
-.PHONY : main.c.i
+main.cpp.i:
+	$(MAKE) -f CMakeFiles/sboj1174.dir/build.make CMakeFiles/sboj1174.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-main.s: main.c.s
+main.s: main.cpp.s
 
 .PHONY : main.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles/sboj1174.dir/build.make CMakeFiles/sboj1174.dir/main.c.s
-.PHONY : main.c.s
+main.cpp.s:
+	$(MAKE) -f CMakeFiles/sboj1174.dir/build.make CMakeFiles/sboj1174.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:

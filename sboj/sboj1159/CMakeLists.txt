@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
-project(sboj1159 C)
+project(sboj1159)
 
-set(CMAKE_C_STANDARD 99)
+set(CMAKE_CXX_STANDARD 14)
 
-add_executable(sboj1159 main.c)
+add_executable(sboj1159 main.cpp)

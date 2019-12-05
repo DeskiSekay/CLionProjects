@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(AOJ_test_week48)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(AOJ_test_week48 main.cpp)

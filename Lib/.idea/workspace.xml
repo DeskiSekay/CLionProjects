@@ -9,7 +9,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="004e5b00-c0f7-45ca-ad0f-c77767f1fcb7" name="默认更改列表" comment="" />
+    <list default="true" id="004e5b00-c0f7-45ca-ad0f-c77767f1fcb7" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/Tamplate_Binary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tamplate_Binary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamplate_Binary/cmake-build-debug/CMakeFiles/Tamplate_Binary.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/Tamplate_Binary/cmake-build-debug/CMakeFiles/Tamplate_Binary.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamplate_Binary/cmake-build-debug/Tamplate_Binary" beforeDir="false" afterPath="$PROJECT_DIR$/Tamplate_Binary/cmake-build-debug/Tamplate_Binary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tamplate_Binary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tamplate_Binary/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj/sboj1147/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj/sboj1147/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,17 +95,17 @@
       <updated>1574480432357</updated>
       <workItem from="1574480433740" duration="2000" />
       <workItem from="1574480471152" duration="1971000" />
+      <workItem from="1574822672744" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1973000" />
+    <option name="totallyTimeSpent" value="1979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25403225" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -113,7 +119,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="CMake" order="11" weight="0.32944608" />
+      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -124,9 +130,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
     <entry file="file://$PROJECT_DIR$/D02.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">

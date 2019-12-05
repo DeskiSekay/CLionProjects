@@ -12,21 +12,181 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed06bebc-2317-450b-9d9b-dac1fdd40675" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week47/.idea/AOJ_test_week47.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week47/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week47/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week47/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lib/D02/.idea/D02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lib/D02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lib/D02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lib/D02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1101/.idea/1101.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1101/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1101/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1101/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1102/.idea/1102.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1102/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1102/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1102/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1108/.idea/1108.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1108/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1108/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOJ/1108/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week48/.idea/AOJ_test_week48.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week48/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week48/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week48/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/Continuously_add_up/.idea/Continuously_add_up.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/Continuously_add_up/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/Continuously_add_up/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/Continuously_add_up/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/eleven/.idea/eleven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/eleven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/eleven/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lib/eleven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1144/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HELP/.idea/HELP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HELP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HELP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HELP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1101/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1101/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1101/.idea/sboj1101.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1101/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1101_c++/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1101_c++/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1101_c++/.idea/sboj1101_c++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1101_c++/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1111/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1155/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1155/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1155/.idea/sboj1155.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1155/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1156/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1156/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1156/.idea/sboj1156.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1156/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1158/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1159/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1161/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1161/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1161/.idea/sboj1161.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1161/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1174/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1195/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1195/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1195/.idea/sboj1195.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1195/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sboj1239/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lib/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lib/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lib/AOJ_test_week47/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lib/AOJ_test_week47/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lib/Tamplate_Binary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lib/Tamplate_Binary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lib/Tamplate_Binary/cmake-build-debug/CMakeFiles/Tamplate_Binary.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lib/Tamplate_Binary/cmake-build-debug/CMakeFiles/Tamplate_Binary.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lib/Tamplate_Binary/cmake-build-debug/Tamplate_Binary" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lib/Tamplate_Binary/cmake-build-debug/Tamplate_Binary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lib/Tamplate_Binary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lib/Tamplate_Binary/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lib/Tamplate_poww/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lib/Tamplate_poww/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1144/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1144/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1144/cmake-build-debug/CMakeFiles/1144.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../1144/cmake-build-debug/CMakeFiles/1144.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1144/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../1144/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/CMakeFiles/sboj1111.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/sboj1111" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/sboj1111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/sboj1111.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/cmake-build-debug/sboj1111.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1111/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1111/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sboj1147.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sboj1147.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sboj1147.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sboj1147.dir/main.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/sboj1147" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/sboj1147" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/CMakeFiles/sboj1158.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/sboj1158" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/sboj1158" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/sboj1158.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1158/cmake-build-debug/sboj1158.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/CMakeFiles/sboj1159.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/sboj1159.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/cmake-build-debug/sboj1159.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1159/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1159/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/CMakeFiles/sboj1174.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/sboj1174" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/sboj1174" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/sboj1174.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1174/cmake-build-debug/sboj1174.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/CMakeFiles/sboj1239.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/sboj1239" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/sboj1239" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/sboj1239.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../sboj1239/cmake-build-debug/sboj1239.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +209,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="850">
               <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
             </state>
           </provider>
@@ -78,8 +238,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,17 +282,18 @@
       <workItem from="1574210815977" duration="8462000" />
       <workItem from="1574662705636" duration="2977000" />
       <workItem from="1574667118132" duration="9000" />
+      <workItem from="1574822665178" duration="5000" />
+      <workItem from="1575267744735" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12830000" />
+    <option name="totallyTimeSpent" value="12838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26209676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2701613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -164,7 +325,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
+        <state relative-caret-position="850">
           <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
         </state>
       </provider>

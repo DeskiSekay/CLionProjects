@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-void strmcpy(char *t, int m, char *s) {
+/*void strmcpy(char *t, int m, char *s) {
     int a = strlen(s);
     int i;
     for (i = 0; i < a; ++i) {
@@ -29,9 +29,13 @@ void strmcpy(char *t, int m, char *s) {
 
     }
     printf("%s", s);
+}*/
+void strmcpy( char *t, int m, char *s )
+{
+    char *a;
+    a=t+m-1;
+    strcpy(s,a);
 }
 
-void ReadString(char s[]) {
-    scanf("%s", s);
-}
+
 

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sekay/CLionProjects/Lib/AOJ_test_week48/main.cpp
+iostream
+-
+stdio.h
+-
+iostream
+-
+iostream
+-
+iostream
+-
+iostream
+-
+iostream
+-
+iostream
+-
+iostream
+-
+iostream
+-
+iomanip
+-
+iostream
+-
+iostream
+-
+bitset
+-
+
